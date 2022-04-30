@@ -1,0 +1,58 @@
+img {
+ width: 150px;   
+ height: 150px;
+}
+.back{
+    background-image:url( "https://medssafety.com/wp-content/uploads/2021/07/Is-Buscopan-Available-Over-The-Counter-In-Ireland.jpg");
+    height: 400px;
+    
+    width: 100%;
+    top: 50px; 
+}
+.form{
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+.back h1{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 50px;
+    border-color: blue;
+    border-width: 10px;
+}
+.back li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: 30px;
+}
+.back a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.clients{
+    background-color:yellowgreen;
+}
+.can{
+    text-align: center;
+    background-color: blueviolet;
+}
+p{
+    background-color: aqua;
+}
+.foot{
+    background-color: coral;
+}
+.foot li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    padding: 50px 50px;  
+}
+.foot p{
+    text-align: center;
+}
