@@ -24,6 +24,10 @@ img {
     border-width: 10px;
     padding: 50px 0px 0px 0px;
 }
+.image{
+    height: 90px;
+    width: 100px;
+}
 .back li{
     list-style-type: none;
     display: inline-block;
