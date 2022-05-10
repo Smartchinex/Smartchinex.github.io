@@ -48,6 +48,8 @@ img {
     background-color:yellowgreen;
 }
 .can{
+    width: 300px;
+    margin: 0px auto;
     text-align: center;
     background-color: blueviolet;
 }
